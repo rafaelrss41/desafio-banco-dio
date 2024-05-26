@@ -36,7 +36,7 @@ Trilha Back-End JAVA
 
 > Assim a Main ficaria assim:
 
-![image.png](assets/main.png)
+![image.png](src/assets/main.png)
 
 ***obs***‼️
 

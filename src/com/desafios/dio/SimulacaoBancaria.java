@@ -11,7 +11,7 @@ public class SimulacaoBancaria {
 
         while (continuar) {
 
-            System.out.println("Dgite 3.");
+
             int opcao = scanner.nextInt();
 
             switch (opcao) {

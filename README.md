@@ -5,7 +5,9 @@
 ```
 Desafio prático de Código do BootCamp Santander 2024;
 Trilha Back-End JAVA
+https://web.dio.me/track/santander-2024-backend-com-java
 ```
+
 
 > Minhas soluções foram testadas fora do ambiente da DIO no Intellijei Community 2023 e aprendi uma maneira de resolver os desafios de forma mais rápida e com menos erros 👽;
 
@@ -38,15 +40,9 @@ Trilha Back-End JAVA
 >
 > ![erro.png](src/assets/erro.png)
 
-
-
-
-
 > Mas se rodarmos o código na iDE ele funciona, aqui eu percebi que na plataforma e necessário que a grafia das saidas estejam corretas também, se repararmos a saída esperada esta diferente da minha saída já que "Saldo Insuficiente" estão sem o ponto final e o "I" é maiusculo, devemos nos atentar a este detalhes, Corrigindo os testes ficam ok para a entrega dos desafios;
->
 
 ![solucao.png](src/assets/solucao.png)
-
 
 ### Conclusão ☑️
 
